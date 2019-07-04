@@ -1,4 +1,2 @@
-# hello-world
+# hello-wordl
 just for practice
-  having learned for one minute
-  
